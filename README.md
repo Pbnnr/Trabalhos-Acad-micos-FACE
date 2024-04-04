@@ -8,3 +8,4 @@ Basta duplicar o projeto neste [link](https://www.overleaf.com/read/zhsmfnknbtww
 
 #### Template
 O repositório também está disponível através de um [Template](https://www.overleaf.com/latex/templates/trabalho-academico-face-ufmg/qptjstjrbvhj) publicado pela própria plataforma do Overleaf
+
